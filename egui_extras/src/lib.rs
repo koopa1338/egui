@@ -83,5 +83,6 @@
 #![allow(clippy::manual_range_contains)]
 
 pub mod image;
+pub mod table;
 
 pub use crate::image::RetainedImage;

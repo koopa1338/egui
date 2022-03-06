@@ -18,6 +18,7 @@ mod selected_label;
 mod separator;
 mod slider;
 mod spinner;
+mod table;
 pub mod text_edit;
 
 pub use button::*;
